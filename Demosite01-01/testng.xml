@@ -1,0 +1,10 @@
+
+<suite name="DemoSite">
+  <test thread-count="5" name="TestCases">
+    <classes>
+      <class name="DemoSiteTC.HomePageTC"/>
+      <class name="DemoSiteTC.AddUserTC"/>
+      <class name="DemoSiteTC.LoginPageTC"/>
+    </classes>
+  </test> 
+</suite> 
